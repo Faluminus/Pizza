@@ -7,6 +7,10 @@ body{
     background-color: rgb(224, 121, 121);
     display: block;
 }
+main{
+    align-items: stretch;
+    display: flex;
+}
 .h1{
     display:block;
 }
@@ -29,6 +33,23 @@ body{
     align-items: center;
 }
 .picker{
+    width:400px;
+    height:100%;
+    display:inline-block;
     margin-top: 5%;
     margin-left: 2vw;
+}
+.pizza_wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pizza{
+    display:inline-block;
+    background-color: rgb(226, 193, 154);
+    width: 500px;
+    height: 500px;
+    align-self: left;
+    margin-left:400px;
+    border-radius: 500px;
 }
