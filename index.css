@@ -1,0 +1,34 @@
+@import url("https://use.typekit.net/qna1cny.css");
+body{
+    font-family: "brevia", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: white;
+    background-color: rgb(224, 121, 121);
+    display: block;
+}
+.h1{
+    display:block;
+}
+.kkk{
+    background-color: rgb(112, 30, 30);
+    margin-bottom: 10px;
+    width: 300px;
+    height:50px;
+    display: flex; 
+    justify-content: center;
+    font-family: "brevia", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: white;
+    border: none;
+    border-color: none;
+    border-radius: 5px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+.picker{
+    margin-top: 5%;
+    margin-left: 2vw;
+}
