@@ -36,7 +36,7 @@ main{
     width:400px;
     height:100%;
     display:inline-block;
-    margin-top: 5%;
+    margin-top: 1%;
     margin-left: 2vw;
 }
 .pizza_wrap{
@@ -51,4 +51,7 @@ main{
     border-radius: 500px;
     margin-left: 200px;
     margin-top: 50px;
+}
+.gap{
+    height: 25px;
 }
